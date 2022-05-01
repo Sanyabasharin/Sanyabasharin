@@ -15,5 +15,5 @@ ACAD Photoshop
 
 --- 
 # Контакты
-[Telegram](@alebash29) [Instagram](alebash) [VK](@aebasharin) [GitHub](https://github.com/Sanyabasharin)
+[Telegram-@alebash29](@alebash29) [Instagram](alebash) [VK](https://vk.com/aebasharin) [GitHub](https://github.com/Sanyabasharin)
 [sanyabasharin@yandex.ru](sanyabasharin@yandex.ru)
